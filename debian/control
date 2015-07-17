@@ -1,5 +1,5 @@
 Source: squidguard
-Build-Depends: debhelper (>= 5), perl, libdb4.8-dev, bison, flex
+Build-Depends: debhelper (>= 5), perl, libdb5.3-dev, bison, flex
 Section: web
 Priority: optional
 Maintainer: VyOS Package Maintainers <maintainers@vyos.net>
